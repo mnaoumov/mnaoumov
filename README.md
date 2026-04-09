@@ -4,7 +4,7 @@ Software engineer based in Queretaro, Mexico. I build tools for [Obsidian](https
 
 ## Obsidian Plugins
 
-I maintain **20+** Obsidian plugins and tools with **900+** combined stars. Here are some highlights:
+I maintain **20+** Obsidian plugins and tools with **800+** combined stars. Here are some highlights:
 
 | Plugin                                                                                         | Stars | Description                                              |
 |------------------------------------------------------------------------------------------------|------:|----------------------------------------------------------|
