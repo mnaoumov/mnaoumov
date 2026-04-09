@@ -1,5 +1,9 @@
 # Hi, I'm Michael Naumov
 
+[![GitHub followers](https://img.shields.io/github/followers/mnaoumov?style=flat&logo=github&label=Followers)](https://github.com/mnaoumov)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/mnaoumov)
+[![Blog](https://img.shields.io/badge/Blog-WordPress-21759B?logo=wordpress)](https://mnaoumov.wordpress.com/)
+
 Software engineer based in Queretaro, Mexico. I build tools for [Obsidian](https://obsidian.md/) and open-source developer tooling.
 
 ## Obsidian Plugins
@@ -27,4 +31,7 @@ See the full list at [obsidian-resources](https://github.com/mnaoumov/obsidian-r
 
 ## Tech
 
-TypeScript, PowerShell, Obsidian API, Node.js, git-annex
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=node.js&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?logo=obsidian&logoColor=white)
