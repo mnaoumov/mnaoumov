@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/mnaoumov?style=flat&logo=github&label=Followers)](https://github.com/mnaoumov)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/mnaoumov)
-[![Blog](https://img.shields.io/badge/Blog-WordPress-21759B?logo=wordpress)](https://mnaoumov.wordpress.com/)
+[![Blog](https://img.shields.io/badge/Blog-Astro-21759B?logo=astro)](https://mnaoumov.dev/)
 
 Software engineer based in Queretaro, Mexico. I build tools for [Obsidian](https://obsidian.md/) and open-source developer tooling.
 
