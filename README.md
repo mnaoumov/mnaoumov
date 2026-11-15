@@ -27,6 +27,7 @@ See the full list at [obsidian-resources](https://github.com/mnaoumov/obsidian-r
 - [obsidian-lib](https://github.com/mnaoumov/obsidian-lib) -- Runtime library for Obsidian plugins: plugin base classes, components, settings, modals, vault and metadata helpers
 - [obsidian-dev-toolkit](https://github.com/mnaoumov/obsidian-dev-toolkit) -- Tooling for Obsidian plugin development: esbuild builder, shared ESLint/Vitest configs, demo vaults and release script; with obsidian-lib it replaces the retired [obsidian-dev-utils](https://github.com/mnaoumov/obsidian-dev-utils)
 - [Invoke-NativeApplication](https://github.com/mnaoumov/Invoke-NativeApplication) -- PowerShell module for proper native command error handling
+- [headless-run](https://github.com/mnaoumov/headless-run) -- Windows launcher with no console window, for Task Scheduler and similar: exact command lines, exit codes and process-tree lifetime control
 - [typescript-template](https://github.com/mnaoumov/typescript-template) -- Strict TypeScript project template with ESLint, dprint, commitlint, and full CI
 
 ## Tech
